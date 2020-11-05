@@ -19,7 +19,6 @@ body {
 /*-------------------------------Nav-bar*/
 
 
-
 /*-------------------------------Header*/
 
 
@@ -27,6 +26,7 @@ body {
 
 .jumbotron {
     background-color: rgba(0, 0, 0, 0.75);
+    margin: 0 auto;
     
 }
 
@@ -49,60 +49,62 @@ body {
 }
 
 
-
-
-
-
-
 /*-------------------------------Classes*/
 .classes-container {
     
 }
 
-
-.body-pump {
-    color: #fafafa;
-
-    background: url("../images/crossfit-bar.jpg") no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover; 
-
-    
+.container .body-pump {
+    position: relative;
 }
 
-.spinning {
+.text-block {
     color: #fafafa;
-    
-
-    background: url("../images/cycling.jpg") no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover; 
-
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.75);
+    padding-left:5px;
+    padding-right: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
-.calisthenics {
-    color: #fafafa;
 
-    background: url("../images/pushups.jpg") no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+.container .spinning {    
+    position: relative;
 }
 
-.grit {
+.text-block {
     color: #fafafa;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
-    background: url("../images/sweat.jpg") no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+
+.container .calisthenics {
+    position: relative;
+}
+
+.text-block {
+    color: #fafafa;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container .grit {
+    position: relative;
+}
+
+.text-block {
+    color: #fafafa;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 /*-------------------------------Reviews*/
