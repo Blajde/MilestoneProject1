@@ -1,11 +1,18 @@
 body {
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Space Grotesk', sans-serif;;
 }
 
 .navbar-brand {
     padding-left: 25px;
     font-family: Roboto, sans-serif;
     font-size: 24px;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border: 0;
+    width: 100%;
+
 }
 
 
@@ -17,17 +24,97 @@ body {
 
 
 /*-------------------------------Home*/
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.75);
+    
+}
+
 .welcome-container {
     height: 100vh;
+    color: #fafafa;
+
+    background: url("../images/start-pic.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+
 }
+
+
+
+
+
+
 
 /*-------------------------------Classes*/
 .classes-container {
+    
+}
 
+
+.body-pump {
+    color: #fafafa;
+
+    background: url("../images/crossfit-bar.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+
+    
+}
+
+.spinning {
+    color: #fafafa;
+    
+
+    background: url("../images/cycling.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.calisthenics {
+    color: #fafafa;
+
+    background: url("../images/pushups.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.grit {
+    color: #fafafa;
+
+    background: url("../images/sweat.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 /*-------------------------------Reviews*/
 .reviews-container{
-
+    
 }
 
+
+
+/*-------------------------------Modal*/
+
+.joinButton a{
+    text-decoration: none;
+
+}
