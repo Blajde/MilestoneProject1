@@ -51,7 +51,13 @@ body {
 
 /*-------------------------------Classes*/
 .classes-container {
-    
+    background-color: grey;
+    background-image: linear-gradient(gray,white);
+}
+
+.classes-container h2 {
+    font-size: 4em;
+    color:#fafafa;
 }
 
 .container .body-pump {
@@ -60,6 +66,7 @@ body {
 
 .text-block {
     color: #fafafa;
+    text-align: center;    
     background-color: rgba(0, 0, 0, 0.75);
     padding-left:5px;
     padding-right: 5px;
@@ -69,47 +76,39 @@ body {
     transform: translate(-50%, -50%);
 }
 
-
 .container .spinning {    
     position: relative;
 }
 
-.text-block {
-    color: #fafafa;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-
 .container .calisthenics {
     position: relative;
-}
-
-.text-block {
-    color: #fafafa;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
 
 .container .grit {
     position: relative;
 }
 
-.text-block {
-    color: #fafafa;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+
+
+.zoom {
+    padding: 0;    
+    transition: transform .2s;        
+    margin: 0 auto;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.2); 
+  -webkit-transform: scale(1.2); 
+  transform: scale(1.2); 
 }
 
 /*-------------------------------Reviews*/
 .reviews-container{
     
+}
+
+.img-runner {
+
 }
 
 
