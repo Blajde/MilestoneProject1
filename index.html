@@ -13,18 +13,19 @@
 <body>
     <header>
         <nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-sm">
-            <a href="#home" class="navbar-brand"><i class="fas fa-dumbbell  mr-2"></i><strong>The Gym Tank</strong></a>
+            <a href="#home" class="navbar-brand"><i class="fab fa-servicestack mr-2"></i><strong>The Gym Tank</strong></a>
+        
 
         <button class="navbar-toggler first-button" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <i class="fas fa-bars"></i>
                 </button>
+
 
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav ml-auto my-4">
                     <li class="active nav-item mr-4"><a href="#home" class="nav-link">Home<span class="sr-only">(current)</span></a></li>
                     <li class="nav-item mr-4"><a href="#classes" class="nav-link">Classes</a></li>
                     <li class="nav-item mr-4"><a href="#reviews" class="nav-link">Reviews</a></li>
-                    <li class="nav-item mr-4"><a href="#contact" class="nav-link">Contact</a></li>   
                     <li><button type="button" class="btn btn-success" data-toggle="modal" data-target="#signUpModal">Sign Up!</button></li>             
                 </ul>
             </div>
@@ -62,11 +63,11 @@
         <div class="container-fluid classes-container">
             <div class="row">
                 <div class="col-12 text-center my-5">
-                    <h2 class="text-uppercase">Classes</h2>
+                    <h2 class="text-uppercase" >Classes</h2>
                 </div>
             </div>
                 <div class="row justify-content-around">
-                    <div class="col-lg-4 mb-5 zoom">
+                    <div class="col-lg-3 mb-5 zoom">
                         <div class="container body-pump">
                         <a href="https://calendly.com/" target="_blank">
                             <img src="assets/images/crossfit-bar.jpg" alt="Girl weightbar" style="width:100%;">                            
@@ -79,7 +80,7 @@
                         </div>                                                  
                     </div>
 
-                    <div class="col-lg-4 mb-5 zoom">
+                    <div class="col-lg-3 mb-5 zoom">
                         <div class="container spinning ">
                         <a href="https://calendly.com/" target="_blank">
                             <img src="assets/images/cycling.jpg" alt="Cycling" style="width:100%;">
@@ -94,7 +95,7 @@
                 </div>
 
                 <div class="row justify-content-around">
-                    <div class="col-lg-4 mb-5 zoom">
+                    <div class="col-lg-3 mb-5 zoom">
                         <div class="container calisthenics ">
                         <a href="https://calendly.com/" target="_blank">
                             <img src="assets/images/pushups.jpg" alt="Pushups" style="width:100%;">
@@ -107,7 +108,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 mb-5 zoom">
+                    <div class="col-lg-3 mb-5 zoom">
                         <div class="container grit ">
                         <a href="https://calendly.com/" target="_blank">
                             <img src="assets/images/sweat.jpg" alt="Sweat" style="width:100%;">
@@ -169,8 +170,8 @@
                 <div class="container my-lg-5">
                     <div class="contact">
                         <h5 class="mt-5"><strong>Contact:</strong></h5>
-                        <p><small><i class="fas fa-phone"></i> 555 123 456<br>
-                        <i class="far fa-envelope"></i> info@thegymtank.com</small></p>
+                        <p><small><i class="fas fa-phone"></i>555 123 456<br>
+                        <i class="far fa-envelope"></i>info@thegymtank.com</small></p>
                     </div>
                 </div>
             </div>
@@ -211,8 +212,8 @@
                 <div class="modal-body">
                     <form>
                         <div class="form-group">
-                            <label for="exampleInputEmail1">Email address:</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>                        
+                            <label for="inputEmailJoin">Email address:</label>
+                            <input type="email" class="form-control" id="inputEmailJoin" aria-describedby="inputEmailJoin" placeholder="Enter email" required>                        
                         </div>
                         <div class="form-group">
                             <label for="exampleInputPassword1">Password:</label>
@@ -223,15 +224,15 @@
                         </div>
                         <div class="form-group">
                             <label for="workoutGoals">Workout Goals:</label>
-                            <textarea type="text" class="form-control mb-2" id="workoutGoals" placeholder="What are your workout goals? (Optional)" rows="3"></textarea>
+                            <input type="text" class="form-control mb-2" id="workoutGoals" placeholder="What are your workout goals? (Optional)">
                         </div>
                         <div class="form-check">
                             <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
                             <label class="form-check-label" for="exampleCheck1">I am over 16 years of age.</label>
                         </div>
                         <div class="text-center joinButton">
-                            <button type="submit" id="btn-submit" class="btn btn-success mt-4 text-center" aria-describedby="passwordHelpBlock"><a href="https://www.paypal.com/uk/webapps/mpp/home" 
-                            target="_blank">Submit!</a></button>
+                            <a class="btn btn-success mt-4 text-center" id="btn-submit" href="https://www.paypal.com/uk/webapps/mpp/home" 
+                            target="_blank" role="button">Submit!</a>
                             <p><small class="form-text text-muted">You will be redirected to an external payment-site</small></p>
                         </div>
                     </form>
@@ -240,6 +241,43 @@
             </div>
         </div>
         </div>
+
+
+<!------------------------------------------------------------------Modal-contact-->
+
+<button type="button" class="btn btn-info" id="modal-contact" data-toggle="modal" data-target="#exampleModalCenter">
+    <i class="fas fa-comment-alt"></i>
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form>
+                <div class="form-group">
+                    <label for="inputEmailAsk">Your Email-address</label>
+                    <input type="email" class="form-control" id="inputEmailAsk" aria-describedby="inputEmailAsk" placeholder="Enter email" required>                    
+                </div>
+                <div class="form-group">
+                    <label for="inputQuestion">Inquiry</label>
+                    <textarea class="form-control" id="inputQuestion" placeholder="Text" rows="3"></textarea>                    
+                </div> 
+                <div class="mt-4 text-center">               
+                    <button type="submit" class="btn btn-success">Submit</button>
+                </div>
+        </form>
+      </div>    
+    </div>
+  </div>
+</div>   
+
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>

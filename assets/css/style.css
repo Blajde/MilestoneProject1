@@ -1,21 +1,23 @@
 body {
-    font-family: 'Space Grotesk', sans-serif;   
+    font-family: 'Space Grotesk', sans-serif;
+    height: 100%;
+    widows: 100%;
+    margin: 0;
 }
 
 
 /*-------------------------------Nav-bar*/
 
 .navbar-brand {
-    padding-left: 25px;
-    font-family: Roboto, sans-serif;
-    font-size: 24px;
+    padding-left: 20px;
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 36px;
 }
 
 .navbar {
     margin-bottom: 0;
     border: 0;
     width: 100%;
-
 }
 
 .animated-icon1 {
@@ -24,12 +26,21 @@ body {
 
 
 
+
+
 /*-------------------------------Home*/
+
+
 
 .jumbotron {
     background-color: rgba(0, 0, 0, 0.75);
     margin: 0 auto;
     
+}
+
+section #home {
+    height: 100%;
+    widows: 100%;
 }
 
 .welcome-container {
@@ -52,6 +63,12 @@ body {
 
 
 /*-------------------------------Classes*/
+
+section #classes {
+    height: 100%;
+    widows: 100%;
+}
+
 .classes-container {
     background-image: url("https://cc245a4e-84ad-40d0-a0c3-75b4badd4ee9.ws-eu01.gitpod.io/mini-browser/workspace/MilestoneProject1/assets/images/canvas.jpg");
     background-position: center center;
@@ -148,6 +165,10 @@ footer {
     text-align: center;    
 }
 
+.contact p i {
+    padding-right: 5px;
+}
+
 .address {
     color: white;    
     display: inline;
@@ -164,16 +185,19 @@ footer {
 .social a{
     color: white;
     text-decoration: none;
-    font-size: 200%;
-       
+    font-size: 150%;       
+}
+
+.social i {
+    padding: 5px;
 }
 
 .d-flex {
     display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-
+    justify-content: center;
+    align-items: center;    
 }
+
 
 /*-------------------------------Modal*/
 
@@ -184,5 +208,12 @@ footer {
 }
 
 
+#modal-contact {
+    position: fixed; 
+    bottom: 0px; 
+    right: 0px;
+    margin: 10px;
+    font-size: 150%
+}
 
 
