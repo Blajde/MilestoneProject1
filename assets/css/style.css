@@ -5,8 +5,7 @@ body {
     margin: 0;
 }
 
-
-/*-------------------------------Nav-bar*/
+/*---------------Nav-bar----------------*/
 
 .navbar-brand {
     padding-left: 20px;
@@ -24,15 +23,11 @@ body {
     background-color: #fff;
 }
 
-
-/*-------------------------------Home*/
-
-
+/*---------------Home----------------*/
 
 .jumbotron {
     background-color: rgba(0, 0, 0, 0.75);
-    margin: 0 auto;
-    
+    margin: 0 auto;    
 }
 
 section #home {
@@ -53,20 +48,17 @@ section #home {
     display:flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
-
 }
 
-
-/*-------------------------------Classes*/
+/*---------------Classes----------------*/
 
 section #classes {
     height: 100%;
     widows: 100%;
 }
 
-.classes-container {
+.classes {
     background-image: url("https://cc245a4e-84ad-40d0-a0c3-75b4badd4ee9.ws-eu01.gitpod.io/mini-browser/workspace/MilestoneProject1/assets/images/canvas.jpg");
     background-position: center center;
     background-repeat: no-repeat;
@@ -75,12 +67,9 @@ section #classes {
     height: 100%;     
 }
 
-.classes-container h2 {
-    font-size: 4em;
-    color:black;
-}
 
-.container .body-pump {
+
+.body-pump {
     position: relative;
 }
 
@@ -96,19 +85,19 @@ section #classes {
     transform: translate(-50%, -50%);
 }
 
-.container .spinning {    
+
+
+.spinning {    
     position: relative;
 }
 
-.container .calisthenics {
+.calisthenics {
     position: relative;
 }
 
-.container .grit {
+.grit {
     position: relative;
 }
-
-
 
 .zoom {
     padding: 0;    
@@ -122,7 +111,7 @@ section #classes {
   transform: scale(1.2); 
 }
 
-/*-------------------------------Reviews*/
+/*----------------Reviews---------------*/
 .rewievs{    
     color: #fff;
     background-color: black;    
@@ -159,11 +148,9 @@ section #classes {
     border-radius: 50%;
 }
 
-
 /*-------------------------------Footer*/
 
-footer {
-    
+footer {    
     background-color: #212529;
 }
 
@@ -210,11 +197,10 @@ footer {
     align-items: center;    
 }
 
-
 /*-------------------------------Modals*/
 
 #signUpModal {    
-    margin-top: 15rem;
+    margin-top: 12rem;
 }
 
 .modal-content {
@@ -227,7 +213,6 @@ footer {
     color: #fff;
     font-family: "Space Grotesk", sans-serif;
 }
-
 
 #modal-contact {
     position: fixed; 
