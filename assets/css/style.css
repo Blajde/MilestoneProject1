@@ -17,6 +17,7 @@ body {
     margin-bottom: 0;
     border: 0;
     width: 100%;
+    padding: 0;
 }
 
 .animated-icon1 {
@@ -199,9 +200,14 @@ footer {
 
 /*-------------------------------Modals*/
 
-#signUpModal {    
-    margin-top: 3em;   
-}
+/*#signUpModal {    
+    margin-top: 3em;
+    padding: 0;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);   
+}*/
 
 .modal-content {
     background-color: #343a40;
