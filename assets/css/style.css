@@ -21,11 +21,8 @@ body {
 }
 
 .animated-icon1 {
-    background-color: white;
+    background-color: #fff;
 }
-
-
-
 
 
 /*-------------------------------Home*/
@@ -45,7 +42,7 @@ section #home {
 
 .welcome-container {
     height: 100vh;
-    color: #fafafa;
+    color: #fff;
 
     background: url("../images/start-pic.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -88,7 +85,7 @@ section #classes {
 }
 
 .text-block {
-    color: #fafafa;
+    color: #fff;
     text-align: center;    
     background-color: rgba(0, 0, 0, 0.75);
     padding-left:5px;
@@ -127,8 +124,23 @@ section #classes {
 
 /*-------------------------------Reviews*/
 .rewievs{    
-    color: white;
+    color: #fff;
     background-color: black;    
+}
+
+.manRunning {
+    height: 150px;
+    width: 150px;
+}
+
+.girlCanoe {
+    height: 150px;
+    width: 150px;
+}
+
+.girlRunning {
+    height: 150px;
+    width: 150px;
 }
 
 .d-flex .container-reviews-content {
@@ -143,7 +155,7 @@ section #classes {
 .rounded-circle {
     border-style: solid;
     border-width: 1px;
-    border-color: white;
+    border-color: #fff;
     border-radius: 50%;
 }
 
@@ -160,7 +172,7 @@ footer {
 }
 
 .contact {
-    color: white;    
+    color: #fff;    
     display: inline;
     text-align: center;    
 }
@@ -170,20 +182,20 @@ footer {
 }
 
 .address {
-    color: white;    
+    color: #fff;    
     display: inline;
     text-align: center;
 }
 
 .social {
     list-style-type: none;
-    color: white;
+    color: #fff;
     font-size: 150%;
     padding: 0;    
 }
 
 .social a{
-    color: white;
+    color: #fff;
     text-decoration: none;
     font-size: 150%;       
 }
@@ -199,11 +211,20 @@ footer {
 }
 
 
-/*-------------------------------Modal*/
+/*-------------------------------Modals*/
+
+#signUpModal {    
+    margin-top: 15rem;
+}
+
+.modal-content {
+    background-color: #343a40;
+    color: #fff;
+}
 
 #btn-submit a {
     text-decoration: none;
-    color: white;
+    color: #fff;
     font-family: "Space Grotesk", sans-serif;
 }
 
