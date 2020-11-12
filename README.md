@@ -23,10 +23,10 @@ Returning visitors:
 
 #### Mockups
 
-	[Home](/assests/images/Home.png)
-	[Classes](/assests/images/Classes.png)
-	[Reviews](/assests/images/Reviews.png)
-	[Sign Up](/assests/images/sign-up-modal.png)
+	[Home](assests/images/Home.png)
+	[Classes](assests/images/Classes.png)
+	[Reviews](assests/images/Reviews.png)
+	[Sign Up](assests/images/sign-up-modal.png)
 
 
 ## Features
@@ -71,20 +71,20 @@ For this project, multiple technologies, libraries, languages and frameworks wer
 	Photo Credits:
 	
 	Reviews images:
-	Image by <a href="https://pixabay.com/users/thatsphotography-3017066/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1561989">thatsphotography</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1561989">Pixabay</a> 
-	Image by <a href="https://pixabay.com/users/skeeze-272447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1705716">skeeze</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1705716">Pixabay</a>
-	Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245658">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245658">Pixabay</a>
-	Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=863081">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=863081">Pixabay</a>
+	- Image by <a href="https://pixabay.com/users/thatsphotography-3017066/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1561989">thatsphotography</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1561989">Pixabay</a> 
+	- Image by <a href="https://pixabay.com/users/skeeze-272447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1705716">skeeze</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1705716">Pixabay</a>
+	- Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245658">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245658">Pixabay</a>
+	- Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=863081">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=863081">Pixabay</a>
 	
 	Classes buttons:
-	Image by <a href="https://pixabay.com/users/5132824-5132824/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2264825">5132824</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2264825">Pixabay</a>
-	Image by <a href="https://pixabay.com/users/un-perfekt-9295476/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3581502">Linus Schütz</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3581502">Pixabay</a>
-	Image by <a href="https://pixabay.com/users/skeeze-272447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=713658">skeeze</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=713658">Pixabay</a>
-	Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=534615">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=534615">Pixabay</a>
+	- Image by <a href="https://pixabay.com/users/5132824-5132824/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2264825">5132824</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2264825">Pixabay</a>
+	- Image by <a href="https://pixabay.com/users/un-perfekt-9295476/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3581502">Linus Schütz</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3581502">Pixabay</a>
+	- Image by <a href="https://pixabay.com/users/skeeze-272447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=713658">skeeze</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=713658">Pixabay</a>
+	- Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=534615">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=534615">Pixabay</a>
 
 	Background:
-	Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2572265">StockSnap</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2572265">Pixabay</a>
-	Image by <a href="https://pixabay.com/users/brrt-122519/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2228506">BRRT</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2228506">Pixabay</a>
+	- Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2572265">StockSnap</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2572265">Pixabay</a>
+	- Image by <a href="https://pixabay.com/users/brrt-122519/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2228506">BRRT</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2228506">Pixabay</a>
 
 * [Calendly](https://calendly.com/) - Links to external calendering service for class appointments.
 * [Stack Overflow](https://stackoverflow.com/)  - Inspiration, codesearch and troubleshooting.
@@ -115,7 +115,7 @@ to increase the realistic feel of the website.
 In addition, the W3C Validator warns of comments that were implemented in the HTML-code in order to increase semantics and improve orientation of the code.
 These warnings were overlooked due to the minimal impact of the websites functionality and look, and improved navigation of the code.
 
-* #####Test procedure
+##### Test procedure
 	i. Navigate to [W3C Validator](https://validator.w3.org/).
 	ii. Click on tab "Validate by Direct Input" or navigate to (https://validator.w3.org/#validate_by_input).
 	iii. Copy full HTML-code from repository with Ctrl + C.
@@ -144,8 +144,10 @@ These issues were addressed and fixed by adding responsive bootstrapping to the 
 	3. Navigation
 		i. In the top nav-bar, click "Classes" and verify that the webpage scrolls to the classes-section.
 		ii. In the top nav-bar, click "Reviews" and verify that the webpage scrolls to the reviews-section.
-		iii. In the top nav-bar, when on the reviews or classes section, click "Home" and verify that the webpage scrolls to the top of the page.
-		iv. In the top nav-bar, when on the reviews or classes section, click logo and verify that the webpage scrolls to the top of the page.
+		iii. In the top nav-bar, when on the reviews or classes section, click "Home" and verify that the webpage 
+        scrolls to the top of the page.
+		iv. In the top nav-bar, when on the reviews or classes section, click logo and verify that the webpage 
+        scrolls to the top of the page.
 
 	4. Classes-section
 		i. Navigate to the classes-section.
@@ -190,15 +192,15 @@ throughout development.
 * Images and background [Pixabay] (See **Technologies used - photo credits**)
 * Acknowledgements
 	Thank you to:
-	i. Brian O'Grady - Programming Director [Code Institute](https://www.codeinstitute.net)
-	ii. Matt Rudge - Senior Product Developer [Code Institute](https://www.codeinstitute.net)
+	- Brian O'Grady - Programming Director [Code Institute](https://www.codeinstitute.net)
+	- Matt Rudge - Senior Product Developer [Code Institute](https://www.codeinstitute.net)
 
 	For inspiration, tutoring and providing guidence with Code Institutes full stack developer videos.
 
-	iii. Code Institute Slack community
+	- Code Institute Slack community
 	
 	A special thanks to my mentor:
-	i. Medale Oluwafemi
+	- Medale Oluwafemi
 	
 	For helping and guiding me with tips, problem-solving and feedback throughout this project.
 
