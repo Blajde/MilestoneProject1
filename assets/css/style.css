@@ -68,8 +68,6 @@ section #classes {
     height: 100%;     
 }
 
-
-
 .body-pump {
     position: relative;
 }
@@ -85,8 +83,6 @@ section #classes {
     left: 50%;
     transform: translate(-50%, -50%);
 }
-
-
 
 .spinning {    
     position: relative;
@@ -199,15 +195,6 @@ footer {
 }
 
 /*-------------------------------Modals*/
-
-/*#signUpModal {    
-    margin-top: 3em;
-    padding: 0;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);   
-}*/
 
 .modal-content {
     background-color: #343a40;
