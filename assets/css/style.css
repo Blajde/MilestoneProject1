@@ -24,6 +24,10 @@ body {
     background-color: #fff;
 }
 
+#navbarNavDropdown {
+    padding-right: 10px;
+}
+
 /*---------------Home----------------*/
 
 .jumbotron {
