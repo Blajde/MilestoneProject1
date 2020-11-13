@@ -19,10 +19,10 @@ traffic and encourage users to return to the site, find them on social media as 
 * To access social media for future rating and contact.
 
 #### Mockups
-- ![Home](assests/images/home.png)
-- ![Classes](assests/images/classes.png)
-- ![Reviews](assests/images/reviews.png)
-- ![Sign Up](assests/images/sign-up-modal.png)
+- ![Home](https://github.com/Blajde/MilestoneProject1/blob/c70b1ac0bb661b5dc55df0c6401ed3548b6ca274/assets/images/home.png) 
+- ![Classes](https://github.com/Blajde/MilestoneProject1/blob/c70b1ac0bb661b5dc55df0c6401ed3548b6ca274/assets/images/classes.png)
+- ![Reviews](https://github.com/Blajde/MilestoneProject1/blob/c70b1ac0bb661b5dc55df0c6401ed3548b6ca274/assets/images/reviews.png)
+- ![Sign Up](ahttps://github.com/Blajde/MilestoneProject1/blob/c70b1ac0bb661b5dc55df0c6401ed3548b6ca274/assets/images/sign-up-modal.png)
 
 
 ## Features
