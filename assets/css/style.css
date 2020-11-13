@@ -1,7 +1,7 @@
 body {
     font-family: 'Space Grotesk', sans-serif;
     height: 100%;
-    widows: 100%;
+    width: 100%;
     margin: 0;
 }
 
@@ -34,10 +34,6 @@ body {
     }
 }
 
-
-
-
-
 /*---------------Home----------------*/
 
 .jumbotron {
@@ -47,7 +43,7 @@ body {
 
 section #home {
     height: 100%;
-    widows: 100%;
+    width: 100%;
 }
 
 .welcome-container {
@@ -70,7 +66,7 @@ section #home {
 
 section #classes {
     height: 100%;
-    widows: 100%;
+    width: 100%;
 }
 
 .body-pump {

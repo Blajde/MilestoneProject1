@@ -56,7 +56,7 @@ For this project, multiple technologies, libraries, languages and frameworks wer
 
 * HTML5	- One of the main languages to add structure to this project.
 * CSS3	- The other main language to add style and improve user experience.
-* [Bootstrap](https://getbootstrap.com/) - This framework has been used to add styles, positioning and effects throughout the pages.
+* [Bootstrap](https://getbootstrap.com/) - This framework has been used to add styles, positioning and effects throughout the pages such as navbar, modals and buttons.
 * [Font Awesome](https://fontawesome.com/) - Provided icons and decorations to improve user experience.
 * [Google Fonts](https://fonts.google.com/) - The main library for adding fonts and text-styles.
 * [Github](https://github.com/) - The site for hosting the website and storing the code.
