@@ -19,9 +19,9 @@ traffic and encourage users to return to the site, find them on social media as 
 * To access social media for future rating and contact.
 
 #### Mockups
-- [Home](assests/images/Home.png)
-- [Classes](assests/images/Classes.png)
-- [Reviews](assests/images/Reviews.png)
+- [Home](assests/images/home.png)
+- [Classes](assests/images/classes.png)
+- [Reviews](assests/images/reviews.png)
 - [Sign Up](assests/images/sign-up-modal.png)
 
 
