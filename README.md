@@ -22,7 +22,7 @@ traffic and encourage users to return to the site, find them on social media as 
 - ![Home](https://github.com/Blajde/MilestoneProject1/blob/c70b1ac0bb661b5dc55df0c6401ed3548b6ca274/assets/images/home.png) 
 - ![Classes](https://github.com/Blajde/MilestoneProject1/blob/c70b1ac0bb661b5dc55df0c6401ed3548b6ca274/assets/images/classes.png)
 - ![Reviews](https://github.com/Blajde/MilestoneProject1/blob/c70b1ac0bb661b5dc55df0c6401ed3548b6ca274/assets/images/reviews.png)
-- ![Sign Up](ahttps://github.com/Blajde/MilestoneProject1/blob/c70b1ac0bb661b5dc55df0c6401ed3548b6ca274/assets/images/sign-up-modal.png)
+- ![Sign Up](https://github.com/Blajde/MilestoneProject1/blob/d5c6f72ab86aabcfb77709f603e4e2d39ff96bc9/assets/images/sign-up-modal.png)
 
 
 ## Features
