@@ -10,23 +10,19 @@ traffic and encourage users to return to the site, find them on social media as 
 
 ## User Experience
 
-First time visitors:
 * To instantly understand what the business and their website offers.
 * To be attracted to join the gym and use it's services.
 * To find reviews from previous customers.
 * To be able to locate and contact the gym.
-
-Returning visitors:
+* To construct a message for the gym.
 * To sign up for classes.
-* To ask questions and contact the gym.
-* To create a social following, allowing customers to rate and recommend via links to social media.
+* To access social media for future rating and contact.
 
 #### Mockups
-
-	[Home](assests/images/Home.png)
-	[Classes](assests/images/Classes.png)
-	[Reviews](assests/images/Reviews.png)
-	[Sign Up](assests/images/sign-up-modal.png)
+- [Home](assests/images/Home.png)
+- [Classes](assests/images/Classes.png)
+- [Reviews](assests/images/Reviews.png)
+- [Sign Up](assests/images/sign-up-modal.png)
 
 
 ## Features
@@ -39,7 +35,7 @@ and a footer at the bottom
 1. A navigation bar with all the categories for navigation such as: Home - Classes - Membership Sign Up! Also a clickable logo that brings the user to the landing page.
    This navigation bar follows the user through all the pages. 
 2. A footer where the user will find contact information and links to social media.
-3. On the landing-section of the page the user will find a short sales-pitch with a clear Sign Up-button that takes them to the Sign Up-page.
+3. On the landing-section of the page the user will find a short sales-pitch with a clear Sign Up-button that pops up a Sign up-modal.
    The background will consist of an inspirational picture to encourage gym workout.
 4. On the Classes-page the user will find the different classes that they can sign up to. Each class is a square space with
    the class name and a descriptive text and picture. Each square works as a button that links to an external scheduling site.
