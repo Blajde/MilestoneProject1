@@ -28,6 +28,16 @@ body {
     padding-right: 10px;
 }
 
+@media only screen and (max-width: 600px) {
+    .app-title {
+        display: none;
+    }
+}
+
+
+
+
+
 /*---------------Home----------------*/
 
 .jumbotron {
@@ -61,15 +71,6 @@ section #home {
 section #classes {
     height: 100%;
     widows: 100%;
-}
-
-.classes {
-    background-image: url("https://cc245a4e-84ad-40d0-a0c3-75b4badd4ee9.ws-eu01.gitpod.io/mini-browser/workspace/MilestoneProject1/assets/images/canvas.jpg");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;     
 }
 
 .body-pump {

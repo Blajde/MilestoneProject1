@@ -80,8 +80,7 @@ For this project, multiple technologies, libraries, languages and frameworks wer
 
 	Background:
 	- Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2572265">StockSnap</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2572265">Pixabay</a>
-	- Image by <a href="https://pixabay.com/users/brrt-122519/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2228506">BRRT</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2228506">Pixabay</a>
-
+	
 * [Calendly](https://calendly.com/) - Links to external calendering service for class appointments.
 * [Stack Overflow](https://stackoverflow.com/)  - Inspiration, codesearch and troubleshooting.
 * [w3schools](https://www.w3schools.com/)  - Inspiration, codesearch and troubleshooting.
